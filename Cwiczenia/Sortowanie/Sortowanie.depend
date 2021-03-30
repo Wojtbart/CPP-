@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1516267626 source:j:\sortowanie\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<iomanip>
+

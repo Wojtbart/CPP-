@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1550760659 source:c:\users\wojtek\desktop\c++ projekty\dynamicznaalokacjapamieci\main.cpp
+	<iostream>
+	<time.h>
+	<cstdlib>
+

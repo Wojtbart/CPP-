@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1550848244 source:c:\users\wojtek\desktop\c++ projekty\sortowanie_przez_wstawianie_v1.1\main.cpp
+	<cstdlib>
+	<ctime>
+	<iostream>
+

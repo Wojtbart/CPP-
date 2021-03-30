@@ -1,0 +1,123 @@
+﻿I - zmienna integer
+i - stała lub zmienna integer
+S - zmienna typu string
+s
+z - znak (char)
+
+
+char danaDruga[255];  // tekst jako tablica znaków
+string t="abcdeee",t1;   // string
+
+z=t[4]; 
+
+
+<string> 
+
+    znak=tekst[i] - litera i-ta tekstu
+	
+    zmienna.length() - długosć tekstu (liczba znaków)
+    np. 
+          t.length() -> 7
+	
+
+    zmienna.find (szukany_tekst, [od_której_pozycji] )
+                 zwraca wartość "std::string::npos" jesli nie znajdzie
+
+    np. 
+          t.find("c",0); -> 2
+	
+	   liczba=t.find("cd",3);  -> 2   
+	
+	zmienna2 = zmienna1.substr(od_znaku, liczba_znaków);  - kopiuje fragment tekstu
+	
+     np.        
+         t1=t.substr(2,3) -> t1="cde"
+	
+
+	zmienna.erase(od_którego_znaku, ilość_znaków);  - usuwa z tekstu znaki
+
+
+        t.erase(3,2);  -> t="abcee"
+
+ 
+        cin>>Zmienna_string - czyta do pierwszej spacji!!!
+	
+	getline(cin, zmienna) - czyta całą linię tekstu (ze spacjami)
+	
+	------------------------
+	cin.sync();    // czyści flagi błędów
+	cin.clear();   //wyczysć bufor (strumień) klawiatury    w tej kolejności!!!
+
+    cout << "Podaj dane:" << endl;
+ 
+    cin>>liczba;          /// 123,.34 tekst
+	cin.sync();    // czyści flagi błędów
+	cin.clear();   //wyczysć bufor klawiatury
+	cin>>tekst;
+
+    --------------
+	cin>>a>>b>>t;
+
+    if(cin.good())
+         cout<<"a="<<a<<" b="<<b<<" t="<<t<<endl;
+    else
+         cout<<"bledne dane";
+    ------------------------------------------
+	
+
+<tablica>
+ 
+ 
+  cin.get(danaPierwsza,13); // lub  cin.get(danaPierwsza,sizeof(danaPierwsza))
+  cin.ignore(255,'\n');     // ignoruj ENTER na końcu linii
+  cin.get(danaPierwsza,255);
+ 
+ 
+ 
+ 
+ 
+ <znak>
+ 
+ 
+ a=getch(); //lub getchar() - pobranie jednego znaku
+ 
+ 
+<konwersja>
+ 
+ 
+  char tabl[255]
+  string s   
+  
+ // char[] na string     string tekst (tablica_znakow); 
+ 
+ 
+ // string na char[]     char tablica[]=zmienna_string.c_str();
+
+
+x=atof(tablica_znakow.c_str());   //konwersja na float
+x=atof(zmienna_string);
+n=atoi (string); konwersja na integer;
+
+
+http://cpp0x.pl/dokumentacja/standard-C/strtod/441
+
+
+
+
+
+
+inne:
+
+isalnum	Sprawdza czy znak przekazany jako argument jest cyfrą lub literą alfabetu. (funkcja)
+isalpha	Sprawdza czy znak przekazany jako argument literą alfabetu. (funkcja)
+iscntrl	Sprawdza czy znak przekazany jako argument jest znakiem kontrolnym. (funkcja)
+isdigit	Sprawdza czy znak przekazany jako argument jest cyfrą. (funkcja)
+isgraph	Sprawdza czy znak przekazany jako argument jest znakiem graficznym. (funkcja)
+islower	Sprawdza czy znak przekazany jako argument jest małą literą alfabetu. (funkcja)
+isprint	Sprawdza czy znak przekazany jako argument jest znakiem drukowalnym. (funkcja)
+ispunct	Sprawdza czy znak przekazany jako argument jest znakiem drukowalnym ale nie jest znakiem alfanumerycznym ani spacją. (funkcja)
+isspace	Sprawdza czy znak przekazany jako argument jest białym znakiem. (funkcja)
+isupper	Sprawdza czy znak przekazany jako argument jest dużą literą alfabetu. (funkcja)
+isxdigit	Sprawdza czy znak przekazany jako argument jest cyfrą szesnastkową. (funkcja)
+tolower	Zwraca znak zamieniony z dużej litery na małą. (funkcja)
+toupper	Zwraca znak zamieniony z małej litery na dużą. (funkcja)

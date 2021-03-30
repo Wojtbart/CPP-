@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1551617049 source:c:\users\wojtek\desktop\c++1\cw01_zad_dom\greadbook.cpp
+	<iostream>
+	<string>
+	"GreadBook.h"
+
+1551616790 c:\users\wojtek\desktop\c++1\cw01_zad_dom\greadbook.h
+	<iostream>
+	<string>
+
+1551616898 source:c:\users\wojtek\desktop\c++1\cw01_zad_dom\main.cpp
+	<iostream>
+	<string>
+	"GreadBook.h"
+
+1551642631 source:c:\users\wojtek\desktop\c++ mnich\download\zadanie_domowe\main.cpp
+	<iostream>
+	<string>
+	"GreadBook.h"
+	"Kolo.h"
+	"Samochod.h"
+
+1551641186 c:\users\wojtek\desktop\c++ mnich\download\zadanie_domowe\greadbook.h
+	<iostream>
+	<string>
+
+1551641260 source:c:\users\wojtek\desktop\c++ mnich\download\zadanie_domowe\greadbook.cpp
+	<iostream>
+	<string>
+	"GreadBook.h"
+
+1551642751 source:c:\users\wojtek\desktop\c++ mnich\download\zadanie_domowe\kolo.cpp
+	<iostream>
+	<string>
+	"Kolo.h"
+	"Samochod.h"
+
+1551642139 c:\users\wojtek\desktop\c++ mnich\download\zadanie_domowe\kolo.h
+	<iostream>
+	<string>
+
+1551642529 c:\users\wojtek\desktop\c++ mnich\download\zadanie_domowe\samochod.h
+	<iostream>
+	<string>
+
+1551642895 source:c:\users\wojtek\desktop\c++ mnich\download\zadanie_domowe\samochod.cpp
+	<string>
+	"Samochod.h"
+

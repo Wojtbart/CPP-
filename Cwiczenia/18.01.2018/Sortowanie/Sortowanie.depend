@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1516871774 source:j:\18.01.2018\sortowanie\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<iomanip>
+
+1516871774 source:f:\18.01.2018\sortowanie\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<iomanip>
+

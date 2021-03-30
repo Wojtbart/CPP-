@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1550063100 source:c:\users\wojtek\desktop\c++ projekty\zgadnijjakatoliczba\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+

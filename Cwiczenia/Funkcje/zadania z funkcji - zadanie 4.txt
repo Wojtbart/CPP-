@@ -1,0 +1,3 @@
+1. Zapisz procedurê WymienWartosciami(x,y) która wymienia liczby x i y wartosciami.
+Np. dla liczb a=5, b=7 po podstawieniu ich jako parametrów procedury otrzymamy wartoœci a=7 i b=5.
+

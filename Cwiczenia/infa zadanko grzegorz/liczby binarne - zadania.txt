@@ -1,0 +1,7 @@
+1. Zapisz funkcje Suma(b1,b2), która dla dwóch dowolnych liczb binarnych oblicza ich sumê. Wynik zwracany jest w postaci binarnej.
+
+2. Zapisz funkcje Iloczyn(b1,b2), która dla dwóch dowolnych liczb binarnych oblicza ich iloczyn. Wynik zwracany jest w postaci binarnej.
+
+3*. Zapisz funkcje SumaP(b1,b2,p), która dla dwóch dowolnych liczb o zapisanych w systemie pozycyjnym o podstawie "p" oblicza ich sumê. Wynik zwracany jest w tym samym systemie.
+
+

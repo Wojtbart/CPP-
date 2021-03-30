@@ -1,0 +1,3 @@
+1.	* Zapisz procedurê ReadInt(x) która bêdzie s³u¿y³a do wczytywania liczb ca³kowitych. Dzia³aæ tak jak cin>>x ale bêdzie odporna na wpisanie b³êdnych znaków. Jeœli podczas wprowadzania wartoœci liczbowej za pomoc¹ instrukcji cin podamy np. liczbê '123a7' to program przypisze z³¹ wartoœci. Nasza instrukcja nie powinna pozwoliæ na wpisanie nieodpowiednich znaków (w tym przypadku znaku 'a').
+
+2.	* Zapisz procedurê ReadReal(x) która dzia³a jak procedura ReadInt ale dla liczb rzeczywistych.

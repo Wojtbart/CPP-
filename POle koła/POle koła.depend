@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1475520365 source:c:\users\wojtek\desktop\pole ko³a\main.cpp
+	<iostream>
+	<cstdlib>
+	<math.h>
+

@@ -1,0 +1,4 @@
+1. Zdefiniowano ci¹g liczbowy: a(1)=1; a(2)=0; a(3)=-1; a(n)=a(n-1)- a(n-2) + a(n-3)
+Zapisz rekurencyjn¹ funkcjê obliczaj¹c¹ n-ty wyraz ci¹gu
+ 
+2. Oblicz n-ty wyraz ci¹gu: b(0)=0; b(n)=6*n+b(n-1) przy pomocy funkcji rekurencyjnej

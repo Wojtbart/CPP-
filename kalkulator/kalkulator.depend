@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1468309610 source:c:\users\wojtek\desktop\programy\kalkulator\main.cpp
+	<iostream>
+
+1468314435 source:c:\users\wojtek\desktop\informatyka\programy c++ i web\kalkulator\main.cpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	<conio.h>
+

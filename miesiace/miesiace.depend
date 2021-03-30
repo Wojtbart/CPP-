@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1468312306 source:c:\users\wojtek\desktop\programy\miesiace\main.cpp
+	<iostream>
+	<cstdlib>
+

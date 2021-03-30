@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1551696769 source:/home/sekowski_1155177/c++/Tablice_zad/main.cpp
+	<iostream>
+	<cmath>
+
+1551826239 source:c:\users\wojtek\desktop\tablice_zad\main.cpp
+	<iostream>
+	<math.h>
+

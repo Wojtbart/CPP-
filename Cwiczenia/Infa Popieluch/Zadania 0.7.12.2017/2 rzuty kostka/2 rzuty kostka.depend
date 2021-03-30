@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1512588081 source:c:\users\wojtek\desktop\2 rzuty kostka\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+

@@ -1,0 +1,13 @@
+Zapisz program DZIENNIK LEKCYJNY w którym:
+
+a) znajdzie się procedura Dopisz (ListaUczniow). ListaUczniow to tablica zawierająca nazwisko ucznia. Procedura Dopisz ma wypełnić tablicę przypadkowymi nazwiskami. 
+
+b) będzie procedura Sortuj (ListaUczniow) która posoruje tablicę z nazwiskami w kolejności alfabetycznej.
+
+c) zapisana będzie procedura Wyświetl(ListaUczniow), która wyświetla na ekranie aktualną zawartość listy.
+
+d) W programie głównym wykonaj czynności:
+ - zapisz listę uczniów (procedura Dopisz);
+ - wyświetl listę;
+ - posortuj listę;
+ - ponownie wyświetl listę.

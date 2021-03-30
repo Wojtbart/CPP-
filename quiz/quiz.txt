@@ -1,0 +1,35 @@
+Informatyka
+Wojciech Sekowski
+ 32 bity to:
+jeden bajt
+cztery bajty  
+szesnaœcie bajtów
+jeden kilobajt
+b
+SPAM to inaczej:
+program graficzny
+u¿ytkownik czata
+niechciana poczta elektroniczna 
+zawieszenie komputera
+c
+Pliki graficzne posiadaj¹ rozszerzenia:
+avi, mov, mpg
+jpg, wmf, tif 
+exe, com, bat
+doc, ppt, xls
+b
+Przegl¹dark¹ internetow¹ nie jest:
+Netscape
+Onet 
+Mozilla
+Opera
+b
+Jêzyk tworzenia i opisu stron internetowych to:
+http
+hdd
+html 
+hdlc
+c
+
+
+

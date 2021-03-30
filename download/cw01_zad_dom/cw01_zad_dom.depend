@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1551617049 source:c:\users\wojtek\desktop\c++1\cw01_zad_dom\greadbook.cpp
+	<iostream>
+	<string>
+	"GreadBook.h"
+
+1551616790 c:\users\wojtek\desktop\c++1\cw01_zad_dom\greadbook.h
+	<iostream>
+	<string>
+
+1551616898 source:c:\users\wojtek\desktop\c++1\cw01_zad_dom\main.cpp
+	<iostream>
+	<string>
+	"GreadBook.h"
+

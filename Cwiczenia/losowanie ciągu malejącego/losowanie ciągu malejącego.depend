@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1516825268 source:c:\users\wojtek\desktop\losowanie ci¹gu malej¹cego\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<iomanip>
+

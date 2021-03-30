@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1516872524 source:j:\szybkosc sortowania\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<iomanip>
+	<conio.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1513204061 source:c:\users\wojtek\desktop\sprawdzanie 6 rzutow kostka\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+

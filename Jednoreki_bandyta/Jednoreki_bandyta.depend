@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1550087559 source:c:\users\wojtek\desktop\c++ projekty\jednoreki_bandyta\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<windows.h>
+

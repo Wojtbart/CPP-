@@ -1,0 +1,10 @@
+﻿1.  Program po uruchomieniu ma pełnić funkcje symulatora rzutu dwoma kostkami do gry, a więc ma wyświetlać 2 liczby całkowite z przedziału <1,6>. Jeśli za pierwszym razem wylosowane (wyświetlone) będą na obu "kostkach" jednakowe liczby oczek, wówczas rzut dwoma kostkami odbywa się jeszcze jeden raz. 
+
+2. Zapisz program losujący liczby w toto-lotku. Ma on wylosować 6 liczb z 49.
+Uwaga! Liczby muszą być różne!
+
+
+3. Program sumuluje 6 rzutów kostką. Po zakończeniu rzutów ma sprawdzić które z liczb powtórzyły się przynajmniej jeden raz.
+
+4, Napisz program sprawdzający czy podana liczba jest liczbą pierwszą.
+

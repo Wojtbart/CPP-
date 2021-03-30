@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1512638161 source:z:\moje dokumenty\6 z 49\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+
+1512638518 source:j:\zadania 0.7.12.2017\6 z 49\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+

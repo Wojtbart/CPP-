@@ -1,0 +1,119 @@
+#include <iostream>
+#include <cmath>
+using namespace std;
+
+/*
+
+tutaj dopisz brakujace funkcje i procedury
+
+
+*/
+
+
+
+int main()
+{
+
+int a,b,c;
+double r;
+
+
+  cout<<"Podaj liczbe calkowita a=";
+  cin>>a;
+  cout<<"Podaj liczbe calkowita b=";
+  cin>>b;
+
+//A-------------------------------------------------
+
+/*
+  a=WartoscBezwzgledna(a);
+
+   cout<<" |a|="<< a <<endl;
+*/
+
+
+//B-------------------------------------------------
+
+
+/*
+ c=Suma2(a,b);
+ cout <<" Suma kwadratow liczb a i b wynosi "<<c<<endl;
+
+ */
+
+//C------------------------------------------------------
+
+/*
+ r=OdwrotnoscLiczby( double a);
+ cout<<" 1/a = " <<OdwrotnoscLiczby(a)<<endl;
+ /// Uwaga! Dla a=0 funkcja ma zwrocic wartosc 0
+*/
+
+//D------------------------------------------------------
+
+/*
+
+ cout<<" Procedura rysuje choinke o podanej wysokosci<<endl;
+ cout<<" Oto choinka o wysokosci a:"<<endl
+ Choinka(a);
+ 
+ // np. dla a=4 na ekranie 
+ // pojawi sie obraz:
+ //    x
+ //   xxx
+ //  xxxxx
+ // xxxxxxx
+ 
+ Choinka(a);
+ 
+*/
+
+//E------------------------------------------------------
+
+/*
+
+ cout<<" Porownanie wartosci liczb a i b"<<endl;
+ cout<<" Poziome linie maja dlugosc odpowiadajaca wartosci liczby"<<endl
+ // np. dla a=4 i b=6 na ekranie po wydaniu polecenia PorownanieWart(|a|,|b|)
+ // pojawi sie obraz:
+ // xxxx
+ // xxxxxx
+ 
+ PorownanieWart(a,b);
+ 
+*/
+
+//F------------------------------------------------------
+
+/*
+
+ cout<<" Funkcja zwraca nazwe dnia tygodnia o podanym numerze:"<<endl;
+ 
+ // np. dla a=4  funkcja Dzien(a) zwroci napis "czwartek"
+ // Jezeli numer jest niewlasciwy to funkcja ma zwrocic pusty tekst
+ 
+ 
+ cout<< "Dzien tygodnia o numerze "<<a<<" nazywa sie "<<Dzien(a)<<endl;
+ 
+*/
+
+
+//G------------------------------------------------------
+
+/*
+
+ cout<<" Diagram pokazuje wartosc liczby dodatniej lub ujemnej:"<<endl;
+ 
+ // np. dla a=4  narysuje:
+ //                               |xxxx
+ // np. dla a=-5  narysuje:
+ //                          xxxxx|
+
+ //
+
+ Diagram(x); 
+
+ 
+*/
+    return 0;
+}

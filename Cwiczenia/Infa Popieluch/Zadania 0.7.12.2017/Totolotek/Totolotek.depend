@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1512587281 source:c:\users\wojtek\desktop\totolotek\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+

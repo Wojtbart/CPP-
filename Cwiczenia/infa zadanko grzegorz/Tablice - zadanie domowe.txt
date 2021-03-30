@@ -1,0 +1,2 @@
+Zapisz program DZIENNIK który pe³ni funkcjê dziennika klasowego dla jednej, 30-to osobowej klasy. Ma on przechowaæ dane: Nazwisko, Imiê i œredni¹ ocen dla ka¿dego ucznia.
+WprowadŸ a nastêpnie wyœwietl dane uczniów.

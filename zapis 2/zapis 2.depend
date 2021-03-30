@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1468491955 source:c:\users\wojtek\desktop\programy\zapis 2\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+

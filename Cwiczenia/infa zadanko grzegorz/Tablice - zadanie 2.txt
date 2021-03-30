@@ -1,0 +1,11 @@
+Napisz program, który:
+
+a) losuje zawartoœæ 200 elementowej tablicy liczb ca³kowitych;
+
+b) wyœwietla zawartoœæ tej tablicy;
+
+c) porz¹dkuje zawartoœæ tej talicy w kolejnoœci rosn¹cej. 
+   Np. jeœli w tablicy by³y liczby: 34,7,12,3,2,8
+   to po uporz¹dkowaniu bêdzie: 2,3,7,8,12,34  
+
+d) ponownie wyœwietla zawartoœæ tej tablicy;

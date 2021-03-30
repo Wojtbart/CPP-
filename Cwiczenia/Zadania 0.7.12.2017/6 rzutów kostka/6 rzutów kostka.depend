@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1512032545 source:z:\moje dokumenty\6 rzutów kostka\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+

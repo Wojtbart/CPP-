@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1468240903 source:c:\users\wojtek\desktop\programy\fibonacci\main.cpp
+	<iostream>
+	<iomanip>
+

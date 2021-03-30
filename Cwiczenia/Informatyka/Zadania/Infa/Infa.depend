@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1507903448 source:c:\users\wojtek\desktop\infa\main.cpp
+	<iostream>
+	<cmath>
+

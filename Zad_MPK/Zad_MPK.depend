@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1553468974 source:c:\users\wojtek\desktop\c++ mnich and so\zad_mpk\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	<vector>
+	<windows.h>
+

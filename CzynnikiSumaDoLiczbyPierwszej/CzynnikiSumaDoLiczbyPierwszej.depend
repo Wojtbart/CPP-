@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1550696600 source:c:\users\wojtek\desktop\c++ projekty\czynnikisumadoliczbypierwszej\main.cpp
+	<iostream>
+	<cmath>
+

@@ -1,0 +1,38 @@
+#include <iostream>
+#include <cstdlib>  /// zawiera generator liczb losowych
+#include <ctime> /// zawiera funkcje time
+
+using namespace std;
+
+int main()
+{
+    cout << "LICZBY LOSOWE" << endl;
+    srand ( time(NULL) );   /// inicjuje gen. liczb
+    cout<< rand() <<endl;   /// losuje liczbe calkowita z <0,RAND_MAX>
+    cout<< "RAND_MAX="<< RAND_MAX <<endl;
+
+
+///-------------------------------------------------------------------
+    cout<< "Calkowita liczba losowa z przedzialu <0, q> np <0, 6>"<<endl;
+    ///   rand() % (q+1)
+    cout<< rand()%(6+1)<<endl;
+
+///-------------------------------------------------------------------
+    cout<< "Calkowita liczba losowa z przedzialu <p, q> np <2, 6>"<<endl;
+
+
+
+///-------------------------------------------------------------------
+    cout<< "Liczba rzeczywista z przedzialu <0 , 1> "<<endl;
+
+
+///-------------------------------------------------------------------
+    cout<< "Liczba rzeczywista z przedzialu <0 , 1) "<<endl;
+
+
+///-------------------------------------------------------------------
+    cout<< "Liczba rzeczywista z przedzialu <p, q> np. <1.5 , 4.5> "<<endl;
+
+
+    return 0;
+}

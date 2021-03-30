@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1468414897 source:c:\users\wojtek\desktop\programy\zapis\main.cpp
+	<iostream>
+	<fstream>
+
+1468494231 source:c:\users\wojtek\desktop\informatyka\programy c++ i web\zapis\main.cpp
+	<iostream>
+	<fstream>
+

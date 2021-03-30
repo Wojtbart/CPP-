@@ -1,0 +1,83 @@
+FUNKCJA (procedura) - wydzielona czêœæ programu wykonuj¹ca zadane operacje. Mo¿emy j¹ wielokrotnie wykorzystaæ w treœci programu bez koniecznoœci wielokrotnego powielania.
+
+Jeœli program zosta³ zapisany z u¿yciem funkcji (procedur), to taki styl programowania nazywamy strukturalnym.
+
+Zalety:
+
+- mo¿liwoœæ wielokrotnego wykorzystania funkcji bez powielania jej treœci w programie
+   (krótszy kod Ÿród³owy);
+
+- ³atwiejsze wyszukiwanie i poprawianie b³êdów, modyfikacja treœci programu;
+
+- krótszy i bardziej przejrzysty kod programu;
+
+- szybsze programowanie dziêki wykorzystaniu gotowych, wczeœniej napisanych funkcji 
+   w tym i w innych programach;
+
+- wiêksza niezawodnoœæ tworzonych programów.
+
+
+
+1. Zapis definicji funkcji w programie
+
+   Definicje funkcji umieszczamy POWYZEJ miejsca w którym jest wykorzystywana, 
+   np. przed programem g³ównym
+
+
+2. Budowa funkcji
+
+------------------------------------------------------------- funkcja z parametrami
+  TYP  NazwaFunkcji (PARAMETRY)    ///   parametry "formalne"
+  {                                             
+    instr1;
+    instr2;
+    ......
+ 
+   return WARTOSC;            /// wartosc zwracana przez funkcje
+  }
+
+------------------------------------------------------------- funkcja bezparametrowa
+ TYP  NazwaFunkcji (void)    ///  brak parametrów, np. funkcja zwracajaca czas
+  {                                             
+    instr1;
+    instr2;
+    ......
+ 
+   return WARTOSC;            /// wartosc zwracana przez funkcje
+  }
+
+-------------------------------------------- funkcja nie zwracajaca wartosci (procedura)
+  void  NazwaFunkcji (PARAMETRY)    ///  parametry "formalne"
+  {                                 /// np. procedura rysuj¹ca na ekranie liniê.            
+    instr1;
+    instr2;
+    ......
+                   /// brak instrukcji "return"
+  }
+
+
+-------------------------------------------- procedura bezparametrowa
+  void  NazwaFunkcji (void)    ///  parametry "formalne"
+  {                            /// np. procedura czyszczaca ekran            
+    instr1;
+    instr2;
+    ......
+                   /// brak instrukcji "return"
+  }
+
+
+
+
+
+
+
+
+ABC pisania funkcji:
+
+I. SprawdŸ typ zwracanej wartoœci (wynika z tego typ funkcji lub wniosek "procedura czy funcja")
+
+II. SprawdŸ liczbê i typ argumentów funkcji (oraz koniecznoœæ zastosowania referencji *)
+
+III. funkcja ma zawsze zwracaæ odpowiedni¹ wartoœæ. 
+     Zadbaj o odpowiednie u¿ycie instrukcji RETURN!!!
+     Pamiêtaj równie¿, ¿e funkcja najczêœciej nie wyœwietla komunikatów lecz tylko zwraca wartoœæ.

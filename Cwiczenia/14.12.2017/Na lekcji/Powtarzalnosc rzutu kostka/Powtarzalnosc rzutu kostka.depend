@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1513240008 source:z:\moje dokumenty\powtarzalnosc rzutu kostka\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+

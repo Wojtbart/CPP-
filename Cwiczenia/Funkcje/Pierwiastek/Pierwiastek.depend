@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1509533307 source:c:\users\wojtek\desktop\pierwiastek\main.cpp
+	<iostream>
+	<math.h>
+

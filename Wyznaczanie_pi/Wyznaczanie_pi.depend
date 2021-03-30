@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1571415102 source:c:\users\wojtek\desktop\c++ mnich and so\wyznaczanie_pi\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<iomanip>
+

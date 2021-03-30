@@ -1,0 +1,7 @@
+1. Zapisz program o mozliwie małej złożoności który dla podanego słowa wyświetla wszystkie jego anagramy
+
+2. Zapisz program obliczjący wynik odejmowania dużych liczb całkowitych (max. 200 cyfr)
+
+3. Zapisz program obliczający wynik dzielenia całkowitego dużych liczb całkowitych.
+Zakładamy że dzielna, dzielnik i wynik może być liczbą zawierającą do 200 cyfr.
+Przeanalizuj mechanizm dzielenia pisemnego i spróbuj go wykorzystać.

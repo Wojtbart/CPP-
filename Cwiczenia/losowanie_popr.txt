@@ -1,0 +1,70 @@
+/*Zapisz projekt pod nazwa POPRAWA_Nazwisko_Imie
+
+ Na zadanie masz 40 minut.
+
+ Uzupelnij tresc programu tak, aby wykonal 2 nastepujace zadania:
+
+ 1. Wylosowanie liczby z okreslonego przedzialu wartosci.
+
+    W programie glownym uzytkownik poda 2 liczby calkowite: m, n.
+	Liczba n ma byæ wiêksza od m conajmniej o 2, tzn. m+2>n.
+    Dopisz funkcje LOSUJ ktora wylosuje liczbe calkowita
+    z przedzialu otwartego ( m, n ), okreœlonego przez liczby podane przez uzytkownika.
+    Funkcja ma zwrocic ta wylosowana liczbe, a program glowny ma ja wyswietlic na ekranie
+
+ 2. Sprawdzenie czy wylosowana liczba jest liczba pierwsza
+
+    Dopisz funkcje PIERWSZA ktora dla wylosowanej liczby sprawdzi czy liczba wiêksza o 1 od
+	wylosowanej liczby jest liczba pierwsza. Funkcja ma zwrocic ta informacje do programu
+    glownego, ktory powinien wyswietlic odpowiedni komunikat.
+
+
+
+*/
+
+#include <iostream>
+#include <cstdlib>
+#include <ctime>
+using namespace std;
+
+///  -----------------------------------
+
+
+
+/* tu zapisz procedury/funkcje */
+
+
+
+/// ------------------------------------
+
+
+
+int main()
+{
+
+   int m,n,x=0;
+   cout<<"Podaj 2 liczby calkowita dodatnie. Pamietaj ze m<n."<<endl;
+
+   cout<<"m=";
+   cin>>m;
+
+   cout<<"n=";
+   cin>>n;
+
+
+
+/// tu uzyj funkcji losujacej, wylosowana wartosc
+/// przypisz do zmiennej x
+
+
+    cout<<"Wylosowana liczba ma wartosc: "<<x<<endl;
+
+
+/// tu uzyj funkcji sprawdzajacej czy x+1 jest to jest liczba
+/// pierwsza. Nastepnie wypisz odpowiedni komunikat.
+
+
+return 0
+
+
+}

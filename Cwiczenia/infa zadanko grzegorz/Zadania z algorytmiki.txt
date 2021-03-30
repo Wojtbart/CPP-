@@ -1,0 +1,142 @@
+﻿
+Zapisz SPECYFIKACJĘ problemu dla zadań, algorytm za pomocą pseudojęzyka i schematów blokowych. 
+
+
+-----> 2. Napisz algorytm za pomocą pseudojęzyka i schematów blokowych. Algorytm ma obliczać średnią arytmetyczną trzech liczb, których wartości są wczytywane podczas działania algorytmu. Wynik wyświetl na ekranie monitora.
+
+DANE: 3 dowolne liczby
+WYNIK: średnia ar. wpr. liczb.
+
+
+
+-------> 3. Napisz algorytm za pomocą pseudojęzyka i schematów blokowych. Algorytm ma obliczać objętość (V) oraz sumę długości wszystkich krawędzi prostopadłościanu (D). Wartości zmiennych a, b, c są podawane podczas działania algorytmu.
+
+DANE: 3 liczby a,b,c wieksze od 0
+WYNIK: obj. V i łączna dł. krawędzi prostopadłościanu o bokach a,b,c
+
+
+------>6. Użytkownik podaje 2 różne liczby  całkowite a,b. Program ma wyświetlić która z liczb jest większa.
+
+DANE: 2 różne liczby całkowite a,b
+WYNIK: większa z wpr. liczb
+
+
+------->7. Użytkownik podaje  liczby całkowite a,b. Program ma wyświetlić która z liczb jest większa lub inf. że są równe.
+
+
+DANE: 2  liczby całkowite a,b
+WYNIK: większa z wpr. liczb lub info że są równe
+
+---->8. Użytkownik podaje liczby całkowite a,b,c. Program podaje największą wprowadzoną wartość.
+
+DANE: 3 dowlone liczby całkowite a,b,c
+WYNIK: największa z wprowadzonych wartości
+
+
+
+---->9. Użytkownik podaje, jaką ilość liczb naturalnych chce podać. Następnie wprowadza zadeklarowaną ilość liczb naturalnych. Algorytm ma podać największą z wprowadzonych liczb.
+
+DANE: n - ilość liczb do wprowadznie, n liczb naturalnych
+WYNIK: największa z wprowadzonych n wartości
+
+
+9a. Użytkownik podaje, jaką ilość liczb całkowitych chce podać. Następnie wprowadza zadeklarowaną ilość liczb. Algorytm ma podać największą z wprowadzonych liczb.
+
+
+------>9b. Użytkownik podaje, jaką ilość liczb całkowitych chce podać. Następnie wprowadza zadeklarowaną ilość liczb. Algorytm ma podać największą i najmniejszą z wprowadzonych liczb.
+
+DANE: n - ilość liczb do wprowadznie, n liczb całkowitych
+WYNIK: największa i najmn. z wprowadzonych n wartości
+
+
+---->10. Należy wczytać ciąg liczb całkowitych podanych przez użytkownika. Nie wiemy ile liczb użytkownik wprowadzi. Zakładamy, że wartość 0 (zero) podana przez użytkownika jest  sygnałem że wprowadzono już wszystkie wartości. Algorytm ma obliczyć średnią podanych liczb przy czym wartość 0 wprowadzana przez użytkownika jest informacją o zakończeniu ciągu i nie jest wliczana do średniej. Jeśli użytkownik nie poda żadnej liczby różnej od zera, wówczas należy wyświetlić komunikat: "Nie podano żadnych liczb do liczenia średniej". 
+	 Np. dla liczb 12,3,4,4,5,8,0 wprowadzonych z klawiatury rozwiązaniem zadania jest wyświetlenie wyniku "6".  
+
+DANE: ciąg liczb całkowtych zakończony liczbą 0
+WYNIK: średnia liczb bez uwzgl. wartości "0" lub komunikat "Nie podano....."
+	 
+
+---> 11. Należy wczytać ciąg liczb całkowitych podanych przez użytkownika. Nie wiemy ile liczb użytkownik wprowadzi. Zakładamy, że wartość 0 (zero) podana przez użytkownika jest  sygnałem że wprowadzono już wszystkie wartości. Algorytm ma obliczyć średnią podanych liczb uwzględniającą tylko liczby dodatnie, przy czym wartość 0 wprowadzana przez użytkownika jest informacją o zakończeniu ciągu i nie jest wliczana do średniej. Jeśli użytkownik nie poda żadnej liczby różnej od zera, wówczas należy wyświetlić komunikat: "Nie podano żadnych liczb do liczenia średniej". 
+	 Np. dla liczb 12,3,4,-5,4,-2, 5,8,0 wprowadzonych z klawiatury rozwiązaniem zadania jest wyświetlenie wyniku "6".
+
+DANE: ciąg liczb całkowtych zakończony liczbą 0
+WYNIK: średnia liczb dodatnich bez uwzgl. wartości "0" lub komunikat "Nie podano....."	 
+
+--->12. Napisz algorytm znajdujacy pierwiastek równania liniowego ax + b =0 .
+
+DANE: 2 dowolne liczby a,b bedące wsp. r. liniowego. gdzie a<>0
+WYNIK: liczba będaca pierw. r. lin.
+
+	 
+
+-->13. Napisz algorytm znajdujacy pierwiastki równania kwadratowego w postaci ax^2+bx+c=0.
+
+DANE: 3 dowolne liczby a,b,c bedące wsp. r. kwadratowego gdzie a<>0
+WYNIK: 1 lub 2 pierw. r.kw lub komunikat  "brak pierw"
+
+
+----> 14. Napisz algorytm sprawdzający czy podana liczba jest liczbą parzystą.
+
+DANE: dowolna liczba
+WYNIK: komunikat TAK lub NIE
+
+15.	Użytkownik podaje liczbę całkowitą dodatnią. Napisz algorytm wyszukujący wszystkie dzielniki podanej liczby.
+
+DANE: dowolna liczba całkowita dodatnia
+WYNIK: wszystkie dzielniki podanej liczby
+
+16. Napisz algorytm sprawdzający czy podana liczba całkowita dodatnia jest liczbą pierwszą
+
+DANE: dowolna liczba całkowita dodatnia
+WYNIK: komunikat "liczba pierwsza" lub "nie liczba pierwsza"
+
+18.	Użytkownik wprowadza ciąg liczb całkowitych dodatnich kończąc go cyfrą zero. Napisz algorytm wyszukujący największą wartość w ciągu (bez liczby 0)
+
+DANE: ciąg liczb całkowitych dodatnich zakończony liczbą "0"
+WYNIK: największa wartość w ciągu bez uwzględnienia liczby "0"
+
+19.	Użytkownik wprowadza ciąg liczb całkowitych kończąc go cyfrą zero. Napisz algorytm wyszukujący najmniejszą wartość w ciągu (bez liczby 0)
+
+DANE: ciąg liczb całkowitych zakończonych liczbą "0"
+WYNIK: najmniejsza wartość w ciągu bez uwzględnienia liczby "0"
+
+20.	Użytkownik wprowadza ciąg liczb całkowitych kończąc go cyfrą zero. Napisz algorytm wyszukujący najmniejszą i największą wartość w ciągu (bez liczby 0)
+
+DANE: ciąg liczb całkowitych zakończony liczbą "0"
+WYNIK: najmniejsza i największa wartość z ciągu bez uwzględnienia liczby "0"
+
+21.	Użytkownik wprowadza ciąg liczb całkowitych dodatnich kończąc go cyfrą zero. Napisz algorytm obliczający średnią wprowadzonych liczb ale bez uwzględnienia jednej liczby o wartości najmniejszej i jednej o wartości największej (bez liczby 0). Np. dla ciągu liczb: 2, 3, 2, 4, 7, 12, 14 średnia będzie policzona z liczb: 3, 2, 4, 7, 12.
+
+DANE: ciąg liczb całkowitych zakończonych cyfrą "0"
+WYNIK: średnia wprowadzonych liczb bez uwzględnienia cyfry "0"
+
+22.	Użytkownik podaje liczbę całkowitą dodatnią. Napisz algorytm obliczający sumę cyfr podanej liczby. Np. dla liczby 2567 wynikiem będzie liczba 20
+
+DANE: dowolna liczba całkowita dodatnia
+WYNIK: suma cyfr podanej liczby
+
+23.  Użytkownik podaje dwie dowolne liczby całkowite m i n (m<n). Algorytm ma wyświetlić wszystkie liczby parzyste które zawierają się w przedziale określonym przez te liczby. Np. dla   n=7 i m=2)  ma wyświetlić 2,4,6, dla m=1 i n=1 nie wyświetli nic.
+
+DANE: dwie dowolne liczby całkowite m i n (m<n)
+WYNIK: wszystkie liczby parzyste znajdujące sie w przedziale określonym przez te liczby
+
+24.  Użytkownik podaje dwie dowolne, różne liczby całkowite m i n (nie jest określone,  która z nich będzie większa). Algorytm ma wyświetlić wszystkie liczby parzyste które zawierają się w przedziale określonym przez te liczby. Np. dla m=7 i n=2  (lub  n=7 i m=2)  ma wyświetlić 2,4,6, dla m=1 i n=1 nie wyświetli nic.
+
+DANE: 2 dowolne liczby całkowite (m<>n)
+WYNIK: wszystkie liczby parzyste znajdujące się w przedziale określonym przez te liczby
+
+25.	Silnia liczby całkowitej nieujemnej n definiowana jest następująco: n!=1*2*3*4*…*(n-1)*n oraz 0!=1. Zapisz algorytm obliczający n!
+
+DANE: liczba całkowita nieujemna n
+WYNIK: n
+
+26. Użytkownik podaje liczbę całkowitą. Algorytm ma wypisać nazwę dnia tygodnia (1 to pn) lub info, że taki dzień nie istnieje
+
+DANE: dowolna liczba całkowita 
+WYNIK: nazwa dnia tygodnia lub komunikat "taki dzień nie istnieje"
+
+27. Algorytm ma wczytać i wyświetlić jedną ocenę semestralną (liczba z zakresu <1,6> ). Przy podaniu złej wartości prosi o ponowne wprowadzenie liczby.
+
+DANE: dowolna liczba
+WYNIK: liczba z zakresu <1,6> lub prośba o ponowne wprowadzenie liczby
+
